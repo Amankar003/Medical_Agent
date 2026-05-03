@@ -15,7 +15,7 @@ torchvision
 
 # ── Vector Stores ──
 chromadb>=0.4.0
-pinecone-client>=3.0.0
+#pinecone-client>=3.0.0
 pinecone
 langchain-pinecone>=0.1.0
 
